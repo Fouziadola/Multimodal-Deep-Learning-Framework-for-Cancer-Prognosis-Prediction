@@ -84,6 +84,6 @@ The project is in the research planning and development stage. Implementation de
 
 ## Contact
 
-Researcher: [Your Name]
+Researcher: @fouziadola
 
 GitHub: [Your GitHub Profile URL]
