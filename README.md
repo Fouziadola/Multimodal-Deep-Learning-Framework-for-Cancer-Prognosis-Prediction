@@ -84,6 +84,5 @@ The project is in the research planning and development stage. Implementation de
 
 ## Contact
 
-Researcher: @fouziadola
+Researchers: Fouzia Jahan Dhola, Ahnaf Tahmid, Quazi Nazib Zaman, Raiyana Islam Ahir, Mahmudul Hasan Rahad, Sahran Mahmud
 
-GitHub: [Your GitHub Profile URL]
